@@ -1,2 +1,5 @@
 .pw
 node_modules/
+template.html
+build.mjs
+verify.mjs
