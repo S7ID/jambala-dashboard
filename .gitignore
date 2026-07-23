@@ -3,3 +3,7 @@ node_modules/
 template.html
 build.mjs
 verify.mjs
+s7_logo.png
+intel.json
+analytics-template.html
+analytics-build.mjs
