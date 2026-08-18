@@ -7,3 +7,11 @@ s7_logo.png
 intel.json
 analytics-template.html
 analytics-build.mjs
+
+# local build state / caches (machine-local, never published)
+.meta_cache*.json
+.ga4_cache.json
+refresh.log
+refresh.sh
+*.bak
+.DS_Store
